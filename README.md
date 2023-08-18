@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm  from ....<br><br>- 🔭 I’m working as Front End Developer<br>- 📚 I'm currently learning Full Stack Development with CI/CD <br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Rishabh Agarwal from Rudrapur, Uttarakhand<br><br>- 🔭 I’m working as Front End Developer<br>- 📚 I'm currently learning Full Stack Development with CI/CD <br>- ⚡ In my free time I prefer to upskill myself.</p>
 
 ###
 
@@ -51,7 +51,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git Logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/agile/agile-original.svg" height="40" alt="Agile Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material-UI Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ant-design/ant-design-original.svg" height="40" alt="Ant Design Logo" />
 </div>
 
 ###
